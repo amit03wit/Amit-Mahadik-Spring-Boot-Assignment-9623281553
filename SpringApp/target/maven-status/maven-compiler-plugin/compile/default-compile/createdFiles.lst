@@ -1,0 +1,10 @@
+org\intellect\bean\SpringApp\EmployeeMapperDTO.class
+org\intellect\bean\SpringApp\EmployeeApplication.class
+org\intellect\bean\SpringApp\EmployeeDTO.class
+org\intellect\bean\SpringApp\EmployeeService.class
+org\intellect\bean\SpringApp\Emloyee.class
+org\intellect\bean\SpringApp\EmployeeRepository.class
+org\intellect\bean\SpringApp\EmployeeController.class
+org\intellect\bean\SpringApp\App.class
+org\intellect\bean\SpringApp\RowMapper.class
+org\intellect\bean\SpringApp\EmployeeDAO.class
